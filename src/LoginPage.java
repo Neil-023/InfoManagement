@@ -47,10 +47,7 @@ public class LoginPage extends javax.swing.JFrame {
         setResizable(false);
 
         jLayeredPane1.setMinimumSize(new java.awt.Dimension(1200, 750));
-        jLayeredPane1.setPreferredSize(new java.awt.Dimension(1200, 750));
         jLayeredPane1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
-
-        txtpassword.setText("jPasswordField1");
         jLayeredPane1.add(txtpassword, new org.netbeans.lib.awtextra.AbsoluteConstraints(730, 360, 420, 50));
 
         jLabel1.setBackground(new java.awt.Color(255, 255, 255));
